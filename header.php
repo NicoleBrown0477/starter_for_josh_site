@@ -22,18 +22,15 @@
 		   ?>
 	</title>
 <meta name="description" content="<?php bloginfo('description'); ?>">
-
-
-<!—Viewport responsive  -->
+<!—Viewport responsive-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">		
 	
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK -->
-    <!--<!—Google fonts  -->-->
-        
-        <link href="https://fonts.googleapis.com/css?family=Raleway:400,800" rel="stylesheet">
+    <!--Google fonts-->
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,800" rel="stylesheet">
 
     
        
@@ -41,9 +38,7 @@
 
         
 	<!--remove all our styles and any Javascript code. Wordpress automatically calls javascript /jquery elsewhere, calls to javascript are not needed in the header or the footer now-->
-    
-<?php wp_head(); ?> <!—very important that this is added-->
-
+<?php wp_head(); ?>
     </head>
 
 <body>
