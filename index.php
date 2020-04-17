@@ -33,7 +33,7 @@ wp_reset_query();?>
 
             <div class="row">
 
-                <div class="article-title text-center">
+                <div class="article-title text-center wow fadeInLeft">
                     <h3>LASTEST ARTICLES</h3>
                 </div>
 
