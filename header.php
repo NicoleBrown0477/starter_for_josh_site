@@ -69,7 +69,7 @@
         </div>
     </nav>
 
-        <div class="container">
+        <div class="container animated fadeInRight">
             <h1> Games Design For the future</h1>
         </div>
 </header>
